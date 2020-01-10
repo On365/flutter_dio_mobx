@@ -1,4 +1,4 @@
-# testedio
+# Flutter com Dio e Mobx
 
 &#x27;A new Flutter project. Created by Slidy&#x27;
 
@@ -8,6 +8,7 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
+- [Flutterando: O Maior canal de flutter em português](https://flutterando.com.br)
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
