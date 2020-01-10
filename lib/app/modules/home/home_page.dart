@@ -56,10 +56,6 @@ class _HomePageState extends State<HomePage> {
                     title: Text(
                         '${user[index].name.first} ${user[index].name.last}'),
                     subtitle: Text(user[index].email),
-                    trailing: Icon(
-                      Icons.remove_circle,
-                      color: Colors.red,
-                    ),
                   );
                 });
           }
